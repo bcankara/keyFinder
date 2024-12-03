@@ -1,0 +1,37 @@
+Global Navigation Satellite System
+GNSS
+Global Positioning System
+GPS
+Synthetic Aperture Radar
+SAR
+Interferometric Synthetic Aperture Radar
+InSAR
+Differential Interferometric Synthetic Aperture Radar
+DInSAR
+Persistent Scatterer Interferometric Synthetic Aperture Radar
+PSInSAR
+Small Baseline Subset Interferometric Synthetic Aperture Radar
+SBAS
+Ground-Based Synthetic Aperture Radar
+GBSAR
+Light Detection and Ranging
+LiDAR
+Terrestrial Laser Scanning
+TLS
+Mobile Laser Scanning
+MLS
+Unmanned Aerial Vehicle
+Unmanned Aerial System
+UAV
+UAS
+Total Station Measurements
+Total Station
+Tachymetry
+Tacheometry
+Photogrammetric
+Photogrammetry
+UAV Photogrammetry
+Satellite
+PSI
+Persistent Scatterer Interferometry
+satellite radar interferometry
