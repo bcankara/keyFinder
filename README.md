@@ -2,6 +2,9 @@
 
 This Python script is designed for filtering and performing statistical analysis on scientific articles. It processes a given Excel file to filter text based on specified keywords and generates comprehensive statistical reports.
 
+## Cite
+KARA, B. C. (2025). keyFinder - Filtering and Analyzing Scientific Articles Based on Specific Keywords (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15167425
+
 ---
 
 ## Features
